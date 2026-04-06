@@ -4,15 +4,15 @@ const Skills = () => {
   const categories = [
     {
       title: "ERP & Trade Systems",
-      skills: ["SAP GTS", "SAP ERP (SD/MM)", "BPCS", "Windchill", "Inventor", "Enovia", "Catia v5", "SolidWorks"]
+      skills: ["SAP GTS", "SAP ERP (Prod))", "BPCS", "Windchill", "PTC CREO", "Catia v5", "SolidWorks"]
     },
     {
       title: "Compliance & Trade Controls",
-      skills: ["HS/HTS Classification", "ECCN / EU Dual-Use", "SCOMET (India)", "Sanctions Screening", "Dumping Duties (AD/CVD)", "Rules of Origin", "Export Control Audits"]
+      skills: ["HS/HTS Classification", "ECCN / EU Dual-Use", "SCOMET (India)", "Sanctions Screening", "Anti Dumping Duties (ADD/CVD)", "Classification Audits"]
     },
     {
       title: "Data & Risk Management",
-      skills: ["Power BI", "Data Analytics", "Risk Modeling", "Process Optimization", "VBA & SQL", "Compliance Dashboards", "Operational Excellence"]
+      skills: ["Power BI", "Data Analytics", "Risk Modeling", "Process Optimization", "SQL", "Operational Dashboards"]
     }
   ];
 
