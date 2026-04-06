@@ -13,7 +13,7 @@ const Hero = () => {
             Nikhil <span className="text-teal-600">Chaudhari</span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-500 mb-6 font-light italic">
-            Trade Compliance Engineer | HS & Export Control Specialist
+            Trade Compliance Analyst | HS & Export Control Specialist
           </p>
           <div className="flex flex-wrap gap-4 mb-8 text-sm text-slate-500">
             <span className="flex items-center gap-2">
@@ -31,7 +31,7 @@ const Hero = () => {
           </div>
           <div className="text-slate-600 mb-10 leading-relaxed text-lg max-w-2xl space-y-4">
             <p>
-              I am a <span className="text-slate-900 font-medium">Global Trade Compliance Specialist</span> with hands-on expertise in <span className="text-slate-900 font-medium">HS/HTS classification</span> and export control regulations, including <span className="text-teal-700 font-medium whitespace-nowrap">ECCN, EU Dual-Use, India SCOMET</span>, UK Dual-Use, and China Export Controls. I actively perform trade sanctions compliance checks, particularly for <span className="text-teal-700 font-medium">Russia and Belarus</span>, along with anti-dumping and countervailing duty assessments.
+              I am a <span className="text-slate-900 font-medium">Global Trade Compliance Analyst</span> with hands-on expertise in <span className="text-slate-900 font-medium">HS/HTS classification</span> and export control regulations, including <span className="text-teal-700 font-medium whitespace-nowrap">ECCN, EU Dual-Use, India SCOMET</span>, UK Dual-Use, and China Export Controls. I actively perform trade sanctions compliance checks, particularly for <span className="text-teal-700 font-medium">Russia and Belarus</span>, along with anti-dumping and countervailing duty assessments.
             </p>
             <p>
               I leverage <span className="text-teal-700 font-medium">Power BI and data analytics</span> to identify risks and improve compliance visibility, while using <span className="text-teal-700 font-medium">SAP GTS and BPCS</span> to streamline international trade operations.
