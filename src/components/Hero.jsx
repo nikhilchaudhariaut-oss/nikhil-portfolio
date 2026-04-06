@@ -13,7 +13,7 @@ const Hero = () => {
             Nikhil <span className="text-teal-600">Chaudhari</span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-500 mb-6 font-light italic">
-            Trade Compliance Analyst | HS & Export Control Specialist
+            Global Trade Compliance  | HS, Export Control & Trade Sanctions Proficient 
           </p>
           <div className="flex flex-wrap gap-4 mb-8 text-sm text-slate-500">
             <span className="flex items-center gap-2">
